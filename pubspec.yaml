@@ -41,6 +41,7 @@ dependencies:
   flutter_slidable: ^3.0.0
   firebase_storage: ^11.1.1
   image_picker: ^0.8.7+4
+  firebase_auth: ^4.6.1
 
 dev_dependencies:
   flutter_test:

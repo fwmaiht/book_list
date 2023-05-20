@@ -1,0 +1,14 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/shoyoshimoto/.pub-cache/hosted/pub.dev/cloud_firestore-4.5.2/
+cloud_firestore_web=/Users/shoyoshimoto/.pub-cache/hosted/pub.dev/cloud_firestore_web-3.4.2/
+firebase_auth=/Users/shoyoshimoto/.pub-cache/hosted/pub.dev/firebase_auth-4.6.1/
+firebase_auth_web=/Users/shoyoshimoto/.pub-cache/hosted/pub.dev/firebase_auth_web-5.5.1/
+firebase_core=/Users/shoyoshimoto/.pub-cache/hosted/pub.dev/firebase_core-2.13.0/
+firebase_core_web=/Users/shoyoshimoto/.pub-cache/hosted/pub.dev/firebase_core_web-2.5.0/
+firebase_storage=/Users/shoyoshimoto/.pub-cache/hosted/pub.dev/firebase_storage-11.1.1/
+firebase_storage_web=/Users/shoyoshimoto/.pub-cache/hosted/pub.dev/firebase_storage_web-3.4.1/
+flutter_plugin_android_lifecycle=/Users/shoyoshimoto/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.13/
+image_picker=/Users/shoyoshimoto/.pub-cache/hosted/pub.dev/image_picker-0.8.7+4/
+image_picker_android=/Users/shoyoshimoto/.pub-cache/hosted/pub.dev/image_picker_android-0.8.6+10/
+image_picker_for_web=/Users/shoyoshimoto/.pub-cache/hosted/pub.dev/image_picker_for_web-2.1.12/
+image_picker_ios=/Users/shoyoshimoto/.pub-cache/hosted/pub.dev/image_picker_ios-0.8.7+3/

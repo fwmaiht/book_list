@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.flutter_application_1.app-mergeDebugResources-20:/values-uz/values-uz.xml",
+            "outputFile": "com.example.flutter_application_1.app-mergeDebugResources-21:/values-uz/values-uz.xml",
             "map": [
                 {
                     "source": "/Users/shoyoshimoto/.gradle/caches/transforms-3/b98038a8bb5f558b05cc7fc73ca7ad87/transformed/jetified-play-services-basement-18.1.0/res/values-uz/values.xml",
@@ -30,11 +30,28 @@
                         "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "20",
+                        "startLines": "24",
                         "startColumns": "4",
-                        "startOffsets": "2296",
+                        "startOffsets": "2739",
                         "endColumns": "100",
-                        "endOffsets": "2392"
+                        "endOffsets": "2835"
+                    }
+                },
+                {
+                    "source": "/Users/shoyoshimoto/.gradle/caches/transforms-3/162e57b214e200a6207c40330426bda2/transformed/browser-1.4.0/res/values-uz/values-uz.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,173,282,392",
+                        "endColumns": "117,108,109,105",
+                        "endOffsets": "168,277,387,493"
+                    },
+                    "to": {
+                        "startLines": "20,21,22,23",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2296,2414,2523,2633",
+                        "endColumns": "117,108,109,105",
+                        "endOffsets": "2409,2518,2628,2734"
                     }
                 },
                 {
